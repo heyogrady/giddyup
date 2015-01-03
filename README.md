@@ -1,0 +1,4 @@
+giddyup
+=======
+
+Rails starter template
